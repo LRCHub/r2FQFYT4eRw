@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "愛唄 × See You Again マッシュアップ / gb (ジービー) & 山下歩 カバー / GReeeeN × Charlie Puth, Wiz Khalifa",
+  "base_artist": "山下 歩",
+  "createdAt": "2026-03-11T13:30:06.822738Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "愛唄",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/01_愛唄_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "愛唄",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": false,
+      "path": "select/02_愛唄_高木さん(CV_高橋李依).txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "愛唄",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/03_愛唄_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "愛唄",
+      "artist": "椎名真昼(CV.石見舞菜香)",
+      "has_synced": true,
+      "path": "select/04_愛唄_椎名真昼(CV.石見舞菜香).lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "愛唄",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/05_愛唄_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "愛唄",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/06_愛唄_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "愛唄",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/07_愛唄_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "愛唄",
+      "artist": "椎名真昼（CV.石見舞菜香）",
+      "has_synced": true,
+      "path": "select/08_愛唄_椎名真昼(CV.石見舞菜香).lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "愛唄",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/09_愛唄_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "愛唄",
+      "artist": "高木さん(CV:高橋李依)",
+      "has_synced": true,
+      "path": "select/10_愛唄_高木さん(CV_高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "愛唄",
+      "artist": "高木さん(CV.高橋李依)",
+      "has_synced": true,
+      "path": "select/11_愛唄_高木さん(CV.高橋李依).lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "愛唄 - Aiuta",
+      "artist": "GReeeeN",
+      "has_synced": true,
+      "path": "select/12_愛唄_-_Aiuta_GReeeeN.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "愛唄～since 2007～",
+      "artist": "whiteeeen",
+      "has_synced": true,
+      "path": "select/13_愛唄~since_2007~_whiteeeen.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "愛唄×See You Again",
+      "artist": "山下歩 & gb",
+      "has_synced": false,
+      "path": "select/pl_01_愛唄×See_You_Again_山下歩_&_gb.txt"
+    }
+  ]
+}
